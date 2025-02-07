@@ -1,7 +1,8 @@
-## 📌 Aasiya Faseeh | BTech Computer Science Engineering  
-### Welcome to My GitHub Profile! 🚀  
+<h1 align="center">Aasiya Faseeh</h1>
 
-Hi there! I'm **Aasiya Faseeh**, a passionate **Computer Science Engineering** student at **Integral University**. I love exploring new technologies, building projects, and learning more about the world of software development.  
+### Hi 👋, Welcome to My GitHub Profile! 🚀  
+
+I'm **Aasiya Faseeh**, a passionate **Computer Science Engineering** student at **Integral University**. I love exploring new technologies, building projects, and learning more about the world of software development.  
 
 ### 🔥 About Me  
 - 🎓 **Education**: BTech in Computer Science Engineering, Integral University  
@@ -10,8 +11,11 @@ Hi there! I'm **Aasiya Faseeh**, a passionate **Computer Science Engineering** s
 - 🎯 **Looking For**: Internship & Collaboration Opportunities  
 
 ### 📂 My GitHub Stats  
-![Aasiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasiyafaseeh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasiyafaseeh&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasiyafaseeh&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasiyafaseeh&layout=compact&theme=tokyonight" />
+</p>
 
 ### 📫 Let's Connect!  
 - 📧 Email: [aasiyafas@student.iul.ac.in](mailto:aasiyafas@student.iul.ac.in)  
